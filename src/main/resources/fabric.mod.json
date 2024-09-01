@@ -11,7 +11,7 @@
 		"homepage": "https://volartrix.xyz",
 		"sources": "https://github.com/RaphtikAtGHG/floppy-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache License Version 2.0",
 	"icon": "assets/floppy-mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
